@@ -3,7 +3,7 @@ A repository of my recent projects
 
 ---
 
-## Metrolinx eLearning Project
+## 📂 Metrolinx eLearning Project
 
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://metrolinxproject.netlify.app/assets/imgs/metrolinxlearninghub.png" alt="Project Logo">
@@ -21,7 +21,7 @@ Conversion of a 3 day design-sprint to a proof-of-concept eLearning platform bui
 
 Link: https://metrolinxproject.netlify.app/
 
-## eLearning Component for Psychology Research Project
+## 📂 eLearning Component for Psychology Research Project
 
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://manimresearchstudy.onrender.com/assets/img/YorkUResearch.png" alt="Project Logo">
@@ -42,7 +42,7 @@ Repo: https://github.com/CraftInsights/FastAPIResearchStudy
 
 Link: https://manimresearchstudy.onrender.com/
 
-## Knowledge Management Wiki
+## 📂 Knowledge Management Wiki
 
 <p align="center">
   <a href="https://skillicons.dev">
