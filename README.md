@@ -23,10 +23,6 @@ Link: https://metrolinxproject.netlify.app/
 
 ## 📂 eLearning Component for Psychology Research Project
 
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://manimresearchstudy.onrender.com/assets/img/YorkUResearch.png" alt="Project Logo">
-</div>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,py,fastapi"/>
