@@ -19,9 +19,13 @@ A repository of my recent projects
 
 Conversion of a 3 day design-sprint to a proof-of-concept eLearning platform built with Metrolinx's UI design patterns in mind. The content is focused on the **METROLINX PERSONAL PROTECTIVE EQUIPMENT STANDARDS** public document released in 2021 as the basis for an online training delivery program for the organizations employees.
 
-Link: https://metrolinxproject.netlify.app/
+> Link: https://metrolinxproject.netlify.app/
 
 ## 📂 eLearning Component for Psychology Research Project
+
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://manimresearchstudy.onrender.com/assets/img/YorkUResearchPortfolio.png" alt="Project Logo">
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,9 +38,9 @@ A web app for a 2023 research study within the Department of Psychology at York 
 - Those in Group A would view custom built high quality animations.
 - Those in Group B would view custom made high quality infographics.
 
-Repo: https://github.com/CraftInsights/FastAPIResearchStudy
-
-Link: https://manimresearchstudy.onrender.com/
+> Repo: https://github.com/CraftInsights/FastAPIResearchStudy
+>
+>Link: https://manimresearchstudy.onrender.com/
 
 ## 📂 Knowledge Management Wiki
 
@@ -48,4 +52,4 @@ Link: https://manimresearchstudy.onrender.com/
 
 A platform project in its early stages, aimed at educators, students, and professional organizations. It enables users to create customizable, modular Wikis – structured collections of information used to collaboratively develop and update educational resources and course materials. Consolidation of information that is digitally accessible and easy to navigate can serve as an effective learning support.
 
-Link: { COMING SOON! }
+> Link: { COMING SOON! }
