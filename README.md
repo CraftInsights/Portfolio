@@ -13,7 +13,7 @@ A repository of my recent projects
 
 
 Exclusive perks. Early access. Epic rewards. Adventure with us four or more times and earn your place in our all-new club for the greatest travellers on Earth.
-Click the link below to see a trainning module built with Articulate 360!
+Click the link below to see a training module built with Articulate 360!
 
 > Link: https://gadventuresglcub.netlify.app/
 
