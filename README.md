@@ -5,6 +5,10 @@ A repository of my recent projects
 
 ## 📂 The Great Adventurers Club
 
+<div align="center" style="margin-bottom: 20px; max-width: 20%; max-height: 20%;">
+  <img src="https://gadventuresglcub.netlify.app/assets/GAC%20Badge%20Completion%20Header.png" alt="Project Logo">
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=articulate,figma"/>
