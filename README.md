@@ -5,14 +5,14 @@ A repository of my recent projects
 
 ## 📂 The Great Adventurers Club
 
-<div align="center" style="margin-bottom: 20px; max-width: 20%; max-height: 20%;">
+<div align="center" style="margin-bottom: 20px;">
   <img src="https://gadventuresglcub.netlify.app/assets/GAC%20Badge%20Completion%20Header.png" alt="Project Logo">
 </div>
 
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=articulate,figma"/>
-  </a>
+  <img style="height: 50px; width: 50px;" src="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_7x9fu1qm/def_height/2700/def_width/2700/version/100012/type/1" />
+  <img style="height: 50px; width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </p>
 
 
