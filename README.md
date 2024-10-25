@@ -3,23 +3,23 @@ A repository of my recent projects
 
 ---
 
-## 📂 Metrolinx eLearning Project
+## 📂 The Great Adventurers Club
 
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://metrolinxproject.netlify.app/assets/imgs/metrolinxlearninghub.png" alt="Project Logo">
+  <img src=https://media.gadventures.com/media-server/dynamic/admin/content_pages/TheGClub_Logos_Main-Logo.png" alt="Project Logo">
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma,netlify"/>
+    <img src="https://skillicons.dev/icons?i=articulate,figma"/>
   </a>
 </p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/32303554-66ce-4a4f-8138-fec082baf1b0/deploy-status)](https://app.netlify.com/sites/metrolinxproject/deploys)
 
-Conversion of a 3 day design-sprint to a proof-of-concept eLearning platform built with Metrolinx's UI design patterns in mind. The content is focused on the **METROLINX PERSONAL PROTECTIVE EQUIPMENT STANDARDS** public document released in 2021 as the basis for an online training delivery program for the organizations employees.
+Exclusive perks. Early access. Epic rewards. Adventure with us four or more times and earn your place in our all-new club for the greatest travellers on Earth.
+Click the link below to see a trainning module built with Articulate 360!
 
-> Link: https://metrolinxproject.netlify.app/
+> Link: https://gadventuresglcub.netlify.app/
 
 ## 📂 eLearning Component for Psychology Research Project
 
@@ -41,6 +41,24 @@ A web app for a 2023 research study within the Department of Psychology at York 
 > Repo: https://github.com/CraftInsights/FastAPIResearchStudy
 >
 >Link: https://manimresearchstudy.onrender.com/
+
+## 📂 Metrolinx eLearning Project
+
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://metrolinxproject.netlify.app/assets/imgs/metrolinxlearninghub.png" alt="Project Logo">
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma,netlify"/>
+  </a>
+</p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/32303554-66ce-4a4f-8138-fec082baf1b0/deploy-status)](https://app.netlify.com/sites/metrolinxproject/deploys)
+
+Conversion of a 3 day design-sprint to a proof-of-concept eLearning platform built with Metrolinx's UI design patterns in mind. The content is focused on the **METROLINX PERSONAL PROTECTIVE EQUIPMENT STANDARDS** public document released in 2021 as the basis for an online training delivery program for the organizations employees.
+
+> Link: https://metrolinxproject.netlify.app/
 
 ## 📂 Knowledge Management Wiki
 
