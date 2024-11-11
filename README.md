@@ -3,7 +3,7 @@ A repository of my recent projects
 
 ---
 
-## 📂 The Great Adventurers Club
+## 📂 G Adventures - The Great Adventurers Club (VIP Loyalty Program)
 
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://gadventuresglcub.netlify.app/assets/GAC%20Badge%20Completion%20Header.png" alt="Project Logo">
@@ -16,12 +16,12 @@ A repository of my recent projects
 </p>
 
 
-Exclusive perks. Early access. Epic rewards. Adventure with us four or more times and earn your place in our all-new club for the greatest travellers on Earth.
-Click the link below to see a training module built with Articulate 360!
+Exclusive perks. Early access. Epic rewards. Adventure with us four or more times and earn your place in our all-new club for the greatest travelers on Earth.
+Click the link below to see an Articulate 360 Rise training module for the 2024 roll-out of a new VIP loyalty program for G Adventures; a social enterprise operating in the travel industry!
 
 > Link: https://gadventuresglcub.netlify.app/
 
-## 📂 eLearning Component for Psychology Research Project
+## 📂 York University - eLearning Research Project in the Department of Psychology
 
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://manimresearchstudy.onrender.com/assets/img/YorkUResearchPortfolio.png" alt="Project Logo">
@@ -33,7 +33,7 @@ Click the link below to see a training module built with Articulate 360!
   </a>
 </p>
 
-A web app for a 2023 research study within the Department of Psychology at York University. The focus of the study is the exploration of improved learning outcomes for undergraduate students taking statistics. Participants will be randomly split into 2 groups - Group A or Group B - and asked to complete learning modules that would teach them statistical methods.
+A web app for a 2023 research study within the Department of Psychology at York University. The focus of the study is the exploration of improved learning outcomes for undergraduate students taking statistics. Participants will be randomly split into 2 groups - Group A or Group B - and asked to complete learning modules that teach them statistical methods.
 
 - Those in Group A would view custom built high quality animations.
 - Those in Group B would view custom made high quality infographics.
@@ -42,7 +42,7 @@ A web app for a 2023 research study within the Department of Psychology at York 
 >
 >Link: https://manimresearchstudy.onrender.com/
 
-## 📂 Metrolinx eLearning Project
+## 📂 Metrolinx - eLearning Project for PPE
 
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://metrolinxproject.netlify.app/assets/imgs/metrolinxlearninghub.png" alt="Project Logo">
