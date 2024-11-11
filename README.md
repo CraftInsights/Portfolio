@@ -1,5 +1,5 @@
 # Portfolio
-A repository of my recent projects
+A repository of my recent training projects
 
 ---
 
@@ -21,7 +21,7 @@ Click the link below to see an Articulate 360 Rise training module for the 2024 
 
 > Link: https://gadventuresglcub.netlify.app/
 
-## 📂 York University - eLearning Research Project in the Department of Psychology
+## 📂 York University - Research Project in the Department of Psychology
 
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://manimresearchstudy.onrender.com/assets/img/YorkUResearchPortfolio.png" alt="Project Logo">
@@ -42,7 +42,7 @@ A web app for a 2023 research study within the Department of Psychology at York 
 >
 >Link: https://manimresearchstudy.onrender.com/
 
-## 📂 Metrolinx - eLearning Project for PPE
+## 📂 Metrolinx - eLearning Project for PPE Standards
 
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://metrolinxproject.netlify.app/assets/imgs/metrolinxlearninghub.png" alt="Project Logo">
