@@ -2,12 +2,12 @@
 A repository of my recent training projects
 
 ---
-## 📂 Canadian Imperial Bank of Commerce (CIBC) 
+## 📂 Canadian Imperial Bank of Commerce (CIBC) -
 
 ### Microsoft Teams Voice Instructional Video
 
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://instructionalvids.netlify.app/gigacrat.png" alt="Project Logo">
+  <img src="https://instructionalvids.netlify.app/cibc_training.png" alt="Project Logo">
 </div>
 
 <p align="center">
