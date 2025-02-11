@@ -2,24 +2,59 @@
 A repository of my recent training projects
 
 ---
+## 📂 Canadian Imperial Bank of Commerce (CIBC) 
 
-## 📂 G Adventures - The Great Adventurers Club (VIP Loyalty Program)
+### Microsoft Teams Voice Instructional Video
+
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://instructionalvids.netlify.app/gigacrat.png" alt="Project Logo">
+</div>
+
+<p align="center">
+  <img style="height: 50px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" />
+  <img style="height: 50px; width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img style="height: 50px; width: 50px;" src="https://www.manim.community/logo.svg" />
+  <img style="height: 50px; width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" />
+</p>
+
+Multiple stakeholders were involved in building training for employees on Microsoft Teams Voice (MS Teams Phone) as the organisation was transitioning away from Cisco Phones. As part of this change management plan, I focused on building an instructional video.
+
+> Link: https://instructionalvids.netlify.app/cibc
+
+
+## 📂 G Adventures - 
+
+### The Great Adventurers Club (VIP Loyalty Program)
 
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://gadventuresglcub.netlify.app/assets/GAC%20Badge%20Completion%20Header.png" alt="Project Logo">
 </div>
-
 
 <p align="center">
   <img style="height: 50px; width: 50px;" src="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_7x9fu1qm/def_height/2700/def_width/2700/version/100012/type/1" />
   <img style="height: 50px; width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </p>
 
-
 Exclusive perks. Early access. Epic rewards. Adventure with us four or more times and earn your place in our all-new club for the greatest travelers on Earth.
 Click the link below to see an Articulate 360 Rise training module for the 2024 roll-out of a new VIP loyalty program for G Adventures; a social enterprise operating in the travel industry!
 
 > Link: https://gadventuresglcub.netlify.app/
+
+### Gigacrat Instructional Video
+
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://instructionalvids.netlify.app/gigacrat.png" alt="Project Logo">
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,gcp,figma"/>
+  </a>
+</p>
+
+I took on a project to build a custom in-house email marketing & certificate automation system called "Gigacrat". This is an instructional video on how to set up Gigacrat.
+
+> Link: https://instructionalvids.netlify.app/gadventures
 
 ## 📂 York University - Research Project in the Department of Psychology
 
